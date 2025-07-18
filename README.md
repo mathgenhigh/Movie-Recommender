@@ -1,8 +1,4 @@
 # ML-Powered Movie Recommendation System
-
-> A content-based movie recommendation system built with Python, scikit-learn, and pandas.
-> Supports recommendations based on movie metadata, tags, and user ratings.
-
 --- 
 
 ## About the Project
@@ -44,4 +40,31 @@ Additionally, it includes a ratings-based recommendation approach leveraging use
 1. Clone the repository:
 
    ```bash
+   git clone https://github.com/mathgenhigh/Movie-Recommender.git
+   cd Movie-Recommender
+   ```
+
+2. Create and activate a virtual environment:
+
+   ```bash
+   python -m venv venv
+   venv\Scripts\activate    # On Linus/MacOS: source venv/bin/activate
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+---
+
+## Usage
+
+You can run the Jupyter notebook for interactive exploration:
+
+    ```bash
+    jupyter notebook notebook/Movie_Recommender.ipynb
+    ```
+Or import and use the modules directly in your Python scripts on REPL.
     
