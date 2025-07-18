@@ -63,7 +63,7 @@ Additionally, it includes a ratings-based recommendation approach leveraging use
 
 You can run the Jupyter notebook for interactive exploration:
 
-    ```
+    ```nginx
     jupyter notebook notebook/Movie_Recommender.ipynb
 
 Or import and use the modules directly in your Python scripts on REPL.
