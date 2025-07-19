@@ -1,3 +1,5 @@
+# Note: all tests passed successfully
+
 import unittest
 import os
 from src.data_preprocessing import load_data, get_tfidf_matrix

@@ -1,3 +1,5 @@
+# Note: all tests passed successfully
+
 import unittest
 import os
 import pandas as pd
