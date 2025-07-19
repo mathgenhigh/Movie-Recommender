@@ -1,5 +1,4 @@
 # ML-Powered Movie Recommendation System
---- 
 
 ## About the Project
 
